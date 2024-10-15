@@ -1,8 +1,11 @@
 id: example
-name: Example Dojo
-type: example
+name: Parker's Dojo
+type: course
 award:
   emoji: 😀
 modules:
   - id: hello
   - id: world
+  - import:
+    dojo: intro-to-cybersecurity
+    module: talking-web
