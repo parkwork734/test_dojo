@@ -4,5 +4,5 @@ type: course
 award:
   emoji: 👽
 modules:
-  - id: parkersayshello
-  - id: ruletheworld
+  - id: hello
+  - id: world
