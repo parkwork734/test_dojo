@@ -1,8 +1,8 @@
-id: p_dojo
+id: pdojo
 name: Parker's Dojo
 type: course
 award:
   emoji: 👽
 modules:
-  - id: parker_says_hello
-  - id: rule_the_world
+  - id: parkersayshello
+  - id: ruletheworld
