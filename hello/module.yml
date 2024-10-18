@@ -1,6 +1,12 @@
 name: Hi six24 team!
 challenges:
-  - id: apple
-    name: Devil Fruit
-  - id: banana
-    name: Laffy Taffy
+- id: apple
+  name: Devil Fruit
+- id: banana
+  name: Laffy Taffy
+resources:
+- name: "Intro Resources"
+  type: lecture
+  video: dQw4w9WgXcQ
+  
+
